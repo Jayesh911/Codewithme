@@ -3,7 +3,7 @@
 - CodeWithMe is a real-time collaborative code editor that allows multiple users to write, edit, and execute code together in shared rooms. It supports live synchronization, multiple programming languages, input/output execution, and in-app chat — making it ideal for interviews, pair programming, and collaborative learning.
 
 🌐 Live Demo:
-**Open using Google Chrome:**
+<H1>Open using Google Chrome:</H1>
 https://codewithme.jayeshsewlani.xyz/
 
 ✨ Features
@@ -26,7 +26,7 @@ Open the application
 
 **Visit** 👉 https://codewithme.jayeshsewlani.xyz/
 
-<H1>**Use Google Chrome for the best experience**</H1>
+<H1>Use Google Chrome for the best experience</H1>
 
 - Create or Join a Room
 
